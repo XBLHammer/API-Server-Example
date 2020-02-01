@@ -1,0 +1,4 @@
+﻿  Network.cpp
+     Creating library C:\Users\bob\Desktop\Server\Client\Release Retail\Client.lib and object C:\Users\bob\Desktop\Server\Client\Release Retail\Client.exp
+Client.exp : warning LNK4070: /OUT:Client.dll directive in .EXP differs from output filename 'C:\Users\bob\Desktop\Server\Client\Release Retail\Client.exe'; ignoring directive
+XBLAPI.lib(XBLAPI.obj) : warning LNK4204: 'C:\Users\bob\Desktop\Server\Client\Release Retail\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info

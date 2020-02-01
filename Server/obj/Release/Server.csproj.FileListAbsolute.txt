@@ -1,0 +1,6 @@
+C:\Users\bob\Desktop\Server\Server\bin\Release\server.exe.config
+C:\Users\bob\Desktop\Server\Server\bin\Release\server.exe
+C:\Users\bob\Desktop\Server\Server\bin\Release\server.pdb
+C:\Users\bob\Desktop\Server\Server\obj\Release\Server.csprojAssemblyReference.cache
+C:\Users\bob\Desktop\Server\Server\obj\Release\server.exe
+C:\Users\bob\Desktop\Server\Server\obj\Release\server.pdb
